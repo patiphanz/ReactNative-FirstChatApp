@@ -1,4 +1,4 @@
-# Still have a bug
+# First Chat app
 
-chat box is still behind keyboard
+Bug: chat box is still behind keyboard
 
